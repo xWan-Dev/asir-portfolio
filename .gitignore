@@ -8,3 +8,10 @@ id_rsa*
 *.log
 .vscode/
 __pycache__/
+
+**/Recursos/
+**/*Anexo*
+*.pptx
+*.pdf
+**/Inbox/
+**/Horario.md
