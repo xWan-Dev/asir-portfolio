@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+id_rsa*
+*.ova
+*.vdi
+*.iso
+*.log
+.vscode/
+__pycache__/
