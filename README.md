@@ -4,7 +4,6 @@ Mi paso por el Grado Superior en Administración de Sistemas Informáticos en Re
 
 Aquí documento lo que voy aprendiendo: prácticas, laboratorios, scripts y proyectos, módulo a módulo.
 
-## Módulos
 ## 1º curso
 [ISO](1-curso/ISO/) · [PAR](1-curso/PAR/) · [GBD](1-curso/GBD/) · [FH](1-curso/FH/) · [LMSGI](1-curso/LMSGI/) · [IPE-I](1-curso/IPE-I/) · [SASP](1-curso/SASP/) · [DASP](1-curso/DASP/)
 
