@@ -5,11 +5,18 @@ Mi paso por el Grado Superior en Administración de Sistemas Informáticos en Re
 Aquí documento lo que voy aprendiendo: prácticas, laboratorios, scripts y proyectos, módulo a módulo.
 
 ## Módulos
-## 1º curso
-[ISO](1-curso/ISO/) · [PAR](1-curso/PAR/) · [GBD](1-curso/GBD/) · [FH](1-curso/FH/) · [LMSGI](1-curso/LMSGI/) · [IPE-I](1-curso/IPE-I/) · [SASP](1-curso/SASP/) · [DASP](1-curso/DASP/)
-
-## 2º curso
-[ASO](2-curso/ASO/) · [SRI](2-curso/SRI/) · [IAW](2-curso/IAW/) · [ASGBD](2-curso/ASGBD/) · [SAD](2-curso/SAD/) · [IPE-II](2-curso/IPE-II/) · [Proyecto Intermodular](2-curso/Proyecto-Intermodular/)
+- [01 Implantación de Sistemas Operativos](01-implantacion-so/)
+- [02 Redes](02-redes/)
+- [03 Hardware](03-hardware/)
+- [04 Bases de datos](04-bases-de-datos/)
+- [05 Lenguajes de marcas](05-lenguajes-marcas/)
+- [06 Administración de SO](06-administracion-so/)
+- [07 Servicios de red](07-servicios-red/)
+- [08 Aplicaciones web](08-aplicaciones-web/)
+- [09 Gestores de BD](09-gestores-bd/)
+- [10 Seguridad](10-seguridad/)
+- [Certificaciones](certificaciones/)
+- [Proyecto final](proyecto-final/)
 
 ## Certificaciones (roadmap)
 CCNA · LPIC-1 · AWS Cloud Practitioner
